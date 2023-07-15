@@ -46,6 +46,7 @@ Contribuições são bem-vindas! Se você encontrar algum problema, tiver alguma
 ## Licença
 
 Este projeto é licenciado sob a [MIT License](https://opensource.org/licenses/MIT). Sinta-se à vontade para usar, modificar e distribuir o código conforme as diretrizes da licença.
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 ---
 Esperamos que esta API RESTFul de vendas online, desenvolvida em Java com o uso do framework Spring Boot, seja útil para o gerenciamento eficiente de vendas online. Em caso de dúvidas ou sugestões, não hesite em entrar em contato.
